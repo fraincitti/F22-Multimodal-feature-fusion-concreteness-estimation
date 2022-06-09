@@ -5,6 +5,5 @@ Due to space limitations, not all architectures were shown in the paper: here im
 
 
 
-![alt text](https://github.com/[fraincitti]/[F22-Multimodal-feature-fusion-concreteness-estimation]/blob/[main]/BC1.png?raw=truhttps://github.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/blob/8e04c5bd19e9f86e90c0c7c191f7b99de6a39796/Multimodal%20Architectures/BC/BC1.PNG)
-
+![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Multimodal%20Architectures/BC/BC1.PNG)
 
