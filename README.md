@@ -20,6 +20,9 @@ Architectures in which ELMo need to be reduced down to BERT size.
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/Undercomplete%20Approaches/UA8.PNG)
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/Undercomplete%20Approaches/UA9.PNG)
 
+Comparison between undercomplete results.
+![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/undercomplete.png)
+
 
 ## Overcomplete Approaches
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/Overcomplete%20Approaches/OA1.PNG)
