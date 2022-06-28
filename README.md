@@ -20,7 +20,7 @@ Architectures in which ELMo need to be reduced down to BERT size.
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/Undercomplete%20Approaches/UA8.PNG)
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/Undercomplete%20Approaches/UA9.PNG)
 
-Comparison between undercomplete results.
+## Comparison between undercomplete results.
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/undercomplete.png)
 
 
@@ -34,6 +34,9 @@ Comparison between undercomplete results.
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/Overcomplete%20Approaches/OA7.PNG)
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/Overcomplete%20Approaches/OA8.PNG)
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/Overcomplete%20Approaches/OA9.PNG)
+
+## Comparison between overcomplete results.
+![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/overcomplete.png)
 
 # MULTIMODAL ARCHITECTURES
 
@@ -70,6 +73,14 @@ Summary table for architectures in the BS scheme.
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Multimodal%20Architectures/BS/BS2.PNG)
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Multimodal%20Architectures/BS/BS3.PNG)
 ![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Multimodal%20Architectures/BS/BS4.PNG)
+
+## Comparison between multimodal results.
+![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Multimodal%20Architectures/multimodal.png)
+
+# FINAL COMPARISON.
+![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Multimodal%20Architectures/risultati.png)
+
+
 
 
 
