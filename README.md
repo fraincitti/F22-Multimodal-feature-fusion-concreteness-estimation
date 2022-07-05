@@ -3,6 +3,10 @@
 Architectures proposed in "Multimodal feature fusion for concreteness estimation" for Fusion 2022 Conference. 
 Due to space limitations, not all architectures were shown in the paper: here images are provided for each proposed architecture.
 
+# Old Benchmark Architecture
+This is the winning architecture proposed in our previous paper: here concreteness scores were predicted for the same set of data. Multimodal data was not used. Our goal was to test the accuracy for contextual independent information, contextual dependent information and a fusion of both. 
+Results showed that contextual embeddings (ELMo and BERT) used together allowed to achieve high accuracy.
+
 
 # TEXTUAL ARCHITECTURES
 Fusion techniques used in every architecture.
