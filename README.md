@@ -7,6 +7,8 @@ Due to space limitations, not all architectures were shown in the paper: here im
 This is the winning architecture proposed in our previous paper: here concreteness scores were predicted for the same set of data. Multimodal data was not used. Our goal was to test the accuracy for contextual independent information, contextual dependent information and a fusion of both. 
 Results showed that contextual embeddings (ELMo and BERT) used together allowed to achieve high accuracy.
 
+![alt text](https://raw.githubusercontent.com/fraincitti/F22-Multimodal-feature-fusion-concreteness-estimation/main/Textual%20Architectures/benchmark.png)
+
 
 # TEXTUAL ARCHITECTURES
 Fusion techniques used in every architecture.
